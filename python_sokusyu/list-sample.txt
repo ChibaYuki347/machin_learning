@@ -1,0 +1,30 @@
+﻿n = [ 1, 2, 3, 4 ]
+
+n
+
+n.append(-1)
+
+n
+
+n
+
+n[0]
+n[1]
+n[2]
+n[3]
+n[2] = 7
+
+n
+
+n.append(10)
+
+n
+
+n.insert(2,3)
+
+
+n
+
+n.remove(4)
+
+n
